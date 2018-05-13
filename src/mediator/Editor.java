@@ -27,6 +27,8 @@ public class Editor implements Mediator {
     private List list;
     private Filter filter;
     
+    
+    
     private static final String ADDBUTTON = "AddButton";
     private static final String DELBUTTON = "DelButton";
     private static final String SAVEBUTTON = "SaveButton";
@@ -40,9 +42,7 @@ public class Editor implements Mediator {
     private JLabel titleLabel = new JLabel("Title:");
     private JLabel textLabel = new JLabel("Text:");
     private JLabel label = new JLabel("Add or select existing note to proceed...");
-
-
-  
+    
   
     @Override
     public void registerComponent(NoteComponent component) {	//receives a component that implements NoteComponent interface

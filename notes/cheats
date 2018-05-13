@@ -1,0 +1,19 @@
+Armor	Up, Down, Left, Right, Square (x2), L1, R1
+Cars avoid you	Up (x2), Right, Left, Triangle, O, O, Square
+Make all vehicles chrome plated	Right, Up, Left, Down, Triangle (x2), L1, R1
+Commit suicide	Right (x2), O, O, L1, R1, Down, X
+Destroy all cars	L1, R1, R1, Left, Right, Square, Down, R1
+Get $250,000	Up, Down, Left, Right, X, X, L1, R1
+Health	Up, Down, Left, Right, O, O, L1, R1
+Perfect traction	Down, Left, Up, L1, R1, Triangle, O, X
+Increase Wanted level	Up, Right, Square (x2), Down, Left, O, O
+Never Wanted	Up, Right, Triangle (x2), Down, Left, X, X
+Faster gameplay	Left, Left, R1, R1, Up, Triangle, Down, X
+Slower gameplay	Left (x2), O, O, Down, Up, Triangle, X
+Faster clock	R1, L1, L1, Down, Up, X, Down, L1
+Spawn Rhino	Up, L1, Down, R1, Left, L1, Right, R1
+Spawn Trashmaster	Down, Up, Right, Triangle, L1, Triangle, L1, Triangle
+Traffic cars are black	L1, R1, L1, R1, Left, O, Up, X
+Weapon set 1	Left, Right, X, Up, Down, Square, Left, Right
+Weapon set 2	Left, Right, Square, Up, Down, Triangle, Left, Right
+Weapon set 3	Left, Right, Triangle, Up, Down, O, Left, Right
